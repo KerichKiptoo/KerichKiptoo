@@ -14,7 +14,7 @@
 
 
 <!--let's connect-->
-<h1 align="center" style="color:yellow;margin-bottom: 20px;" >Don't be a stranger, let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="22px" style="margin-bottom: -5px;"  > </h1>  
+<h3 align="center" style="color:yellow;margin-bottom: 20px;" >Don't be a stranger, let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="22px" style="margin-bottom: -5px;"  > </h1>  
 <p align='center'>
   <a href="https://wa.me/+254704078252">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
