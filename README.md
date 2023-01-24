@@ -12,10 +12,6 @@
 </h1>
 <!--Typing svg-->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/kerich" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kerich" height="30" width="40" /></a>
-</p>
 
 <!--let's connect-->
 <h1 align="left" style="color:yellow;margin-bottom: 20px;" >Don't be a stranger, let's Connect<img src="https://github.com/hariketsheth/hariketsheth/blob/main/img/handshake.gif" height="22px" style="margin-bottom: -5px;"  > </h1>  
