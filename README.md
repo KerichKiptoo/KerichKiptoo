@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Kerich Kiptoo Denis</h1>
+<!--Typing svg-->
+<h1 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Kerich+Kiptoo+Denis!...;A+Geospatial+Engineer+...;Great+to+have+you+here!🖤&center=true&size=20" alt="Typing SVG" /></a>
+</h1>
+<!--Typing svg-->
 <h3 align="center">I am a Geospatial Engineer with a passion for GIS development. My expertise includes designing and implementing GIS solutions for a variety of industries, as well as analyzing and interpreting geospatial data to support decision-making. I am skilled in various GIS software and programming languages, and am always eager to learn new technologies and techniques to improve my work. I am excited to apply my skills to new challenges and opportunities in the field.</h3>
 
 <h3 align="left">Connect with me:</h3>
